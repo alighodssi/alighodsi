@@ -1,0 +1,20 @@
+
+
+
+.inputWrapper  label{
+                display: block;
+                text-align: right;
+                margin-top: 10px;
+                font-size: 20px;
+                color: darkslategray;
+
+}
+
+.inputWrapper  input{
+
+                width: 100%;
+                padding: 10px;
+                border: 1px solid royalblue;
+                font-size: 20px;
+                
+}

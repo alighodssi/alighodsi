@@ -1,0 +1,58 @@
+.CreatArticlecss {
+
+                display: flex;
+                justify-content: end;
+
+
+}
+
+
+.ArticleWrapper {
+
+                display: flex;
+                flex-direction: column;
+                margin-top: 20px;
+
+}
+
+.ArticleWrapper label {
+                text-align: right;
+                margin-bottom: 10px;
+
+}
+
+.ArticleWrapper input {
+                text-align: right;
+                padding: 10;
+
+}
+
+.buttonWrapper {
+                text-align: right;
+}
+
+.buttonWrapper button {
+                padding: 10px;
+                background-color: royalblue;
+                border-radius: 5px;
+                color: aliceblue;
+                margin-top: 15px;
+                margin-bottom: 50px;
+                cursor: pointer;
+
+}
+
+.buttonWrapper button:active {
+                opacity: .8;
+}
+
+.CreatArticleWord {
+
+                width: 100%;
+                height: 500px;
+}
+
+.CreatArticleWord p {
+              margin-top: 250px;
+              margin-left: 550px;
+}

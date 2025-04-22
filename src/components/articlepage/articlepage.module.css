@@ -1,0 +1,32 @@
+
+.UnderNavbarArticlePage {
+                
+                display: flex;
+                flex-flow: row-reverse;
+                
+
+}
+.h2ArticlePage {
+                text-align: right;
+                margin: 50px 0 20px 0;
+}
+
+.UnderNavbarArticlePage p {
+
+                margin-left: 10px;
+                color: burlywood;
+}
+
+.ArticlePagePic img {
+                
+                height: 500px;
+                width: 500px;
+                margin-top: 50px;
+}
+
+
+.ArticlePagePic p{
+
+                width: 100%;
+                margin: 20px 0;
+}

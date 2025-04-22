@@ -1,0 +1,38 @@
+.AboutUsWrapper h2{
+
+    text-align: right;   
+    margin-top: 25px;
+    
+}
+.AboutUsWrapper p {
+
+    text-align: right;
+    margin-top: 50px;
+}
+
+.AboutUsWrapper img {
+
+    height: 500px;
+    width: 500px;
+    margin: 70px 0 50px 315px;
+   
+}
+
+.AboutUsWrapper h3 
+{
+
+text-align: center;
+margin-top:50px;
+color: bisque;
+
+}
+
+.aboutusword {
+    width: 100%;
+    height: 500px;
+}
+
+.aboutusword p {
+    margin-top: 250px;
+    margin-left: 550px;
+}
