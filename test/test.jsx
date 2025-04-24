@@ -136,4 +136,3 @@ axios.get("http://localhost:8000/articels").then ((result) => {
     color: #777;
 
 }
-
